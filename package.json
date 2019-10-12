@@ -1,0 +1,42 @@
+{
+  "name": "hexo-auto-link-ckecker",
+  "version": "1.0.0",
+  "main": "index",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "he": "^1.2.0",
+    "mkdirp": "^0.5.1"
+  },
+  "description": "Automatically detects broken links.",
+  "devDependencies": {},
+  "directories": {
+    "lib": "./lib"
+  },
+  "author": {
+    "email": "tea3gtinfo@gmail.com",
+    "name": "tea3",
+    "url": "https://photo-tea.com/"
+  },
+  "bugs": {
+    "url": "https://github.com/tea3/hexo-auto-link-ckecker/issues"
+  },
+  "keywords": [
+    "hexo",
+    "link",
+    "url",
+    "brokenlinks",
+    "deletcs",
+    "plugin"
+  ],
+  "license": "MIT",
+  "maintainers": [
+    {
+      "name": "tea3gt",
+      "email": "tea3gtinfo@gmail.com"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tea3/hexo-auto-link-ckecker.git"
+  }
+}
