@@ -1,5 +1,5 @@
 {
-  "name": "hexo-auto-link-ckecker",
+  "name": "hexo-auto-link-checker",
   "version": "1.0.0",
   "main": "index",
   "dependencies": {
