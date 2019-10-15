@@ -6,7 +6,7 @@ This plugin for [Hexo](https://hexo.io/) can automatically detects broken links.
 ## Installation
 
 ``` bash
-$ npm install hexo-auto-link-ckecker --save
+$ npm install hexo-auto-link-checker --save
 ```
 
 ## Usage
