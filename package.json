@@ -1,6 +1,6 @@
 {
   "name": "hexo-auto-link-checker",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index",
   "dependencies": {
     "cheerio": "^1.0.0-rc.2",
@@ -18,7 +18,7 @@
     "url": "https://photo-tea.com/"
   },
   "bugs": {
-    "url": "https://github.com/tea3/hexo-auto-link-ckecker/issues"
+    "url": "https://github.com/tea3/hexo-auto-link-checker/issues"
   },
   "keywords": [
     "hexo",
@@ -37,6 +37,6 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tea3/hexo-auto-link-ckecker.git"
+    "url": "git+https://github.com/tea3/hexo-auto-link-checker.git"
   }
 }
