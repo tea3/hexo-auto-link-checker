@@ -8,7 +8,7 @@ $ npm install -g hexo-cli
 $ hexo init hexo8
 $ cd hexo8
 $ npm install
-$ npm install hexo-auto-link-ckecker --save
+$ npm install hexo-auto-link-checker --save
 ```
 
 Also , if you occur `DTraceProviderBindings.node` error , please see [issue#1 (hexo-related-popular-posts)](https://github.com/tea3/hexo-related-popular-posts/issues/1).
