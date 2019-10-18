@@ -1,4 +1,4 @@
-# hexo-auto-link-ckecker
+# hexo-auto-link-checker
 
 This plugin for [Hexo](https://hexo.io/) can automatically detects broken links.
 
