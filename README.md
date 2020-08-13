@@ -27,7 +27,8 @@ Please set the following options. Please edit `_config.yml`.
 ```
 # hexo-auto-link-chekcer
 autoLinkChecker:
-  # enable: false
+  # enable: false  #Disable this plugin
+  verbose: true  #Console display of processing contents
   rarelyChangePostsPath: 404/
   cachePath: cache/hexo-auto-link-checker.json
   exclusionURL:
