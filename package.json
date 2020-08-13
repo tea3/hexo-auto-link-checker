@@ -5,7 +5,8 @@
   "dependencies": {
     "cheerio": "^1.0.0-rc.2",
     "he": "^1.2.0",
-    "mkdirp": "^0.5.1"
+    "mkdirp": "^0.5.1",
+    "request": "^2.88.2"
   },
   "description": "Automatically detects broken links.",
   "devDependencies": {},
